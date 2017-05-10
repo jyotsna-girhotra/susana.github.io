@@ -16,7 +16,7 @@ cd /usr/local/parquet-tools-1.6.0
 mkdir bin
 touch bin/parquet-tools
 echo $'#!/bin/bash\nexec java -jar /usr/local/parquet-tools-1.6.0/jars/parquet-tools-1.6.0.jar "$@"' > /usr/local/parquet-tools-1.6.0/bin/parquet-tools
-chmod +x bin/parquet-tools'
+chmod +x bin/parquet-tools
 ```
 
 Make sure to add your parquet-tools script to your `$PATH`. Add this to your bash config:

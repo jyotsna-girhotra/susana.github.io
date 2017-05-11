@@ -31,6 +31,7 @@ You can however, add your own custom named directory and use that instead.
 
 ```bash
 mkdir $PROJECT_ROOT/my_fav_jars && mv dist/jars/* $PROJECT_ROOT/my_fav_jars
+```
 
 To change the directory that jars are stored in, add the following line to your `build.sbt`:
 

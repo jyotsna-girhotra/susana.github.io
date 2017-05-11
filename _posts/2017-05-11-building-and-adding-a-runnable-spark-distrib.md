@@ -5,7 +5,7 @@ date:   2017-05-11
 categories: scala, sbt, spark
 ---
 
-If you're interested in running a version of Spark that is not yet available as a runnable distribution on [their site](), you can do the following to build your own runnable distribution and incorporate it into your `build.sbt`.
+If you're interested in running a version of Spark that is not yet available as a runnable distribution on [their site](http://spark.apache.org/downloads.html), you can do the following to build your own runnable distribution and incorporate it into your `build.sbt`.
 
 First, clone the Apache Spark repo and checkout a branch at your target release's commit. You can find Spark release tags [here](https://github.com/apache/spark/releases).
 

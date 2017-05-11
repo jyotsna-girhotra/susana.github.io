@@ -2,7 +2,7 @@
 layout: post
 title:  "Ansible Notes"
 date:   2017-01-11 22:22:03 -0500
-categories: ansible
+categories: [ansible]
 ---
 
 Notes I took while working with Ansible for the first time.

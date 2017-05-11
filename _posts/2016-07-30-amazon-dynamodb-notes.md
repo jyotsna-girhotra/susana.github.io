@@ -2,7 +2,7 @@
 layout: post
 title:  "Amazon DynamoDB Notes"
 date:   2016-07-30
-categories: dynamodb, ansible
+categories: [dynamodb, ansible]
 ---
 
 ### Partitions

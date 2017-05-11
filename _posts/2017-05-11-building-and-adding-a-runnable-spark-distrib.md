@@ -2,7 +2,7 @@
 layout: post
 title: Building and Adding a Runnable Spark Distrib
 date:   2017-05-11
-categories: scala, sbt, spark
+categories: [scala, sbt, spark]
 ---
 
 If you're interested in running a version of Spark that is not yet available as a runnable distribution on [their site](http://spark.apache.org/downloads.html), you can do the following to build your own runnable distribution and incorporate it into your `build.sbt`.

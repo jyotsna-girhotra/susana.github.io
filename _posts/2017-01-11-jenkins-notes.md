@@ -2,7 +2,7 @@
 layout: post
 title:  "Jenkins Notes"
 date:   2017-01-11 22:22:03 -0500
-categories: jekyll update
+categories: [jekyll, update]
 ---
 
 A few things I came across while working with Jenkins for the first time.

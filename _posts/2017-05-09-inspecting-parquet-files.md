@@ -2,7 +2,7 @@
 layout: post
 title:  "Inspecting Parquet Files"
 date:   2017-05-09
-categories: parquet
+categories: [parquet]
 ---
 
 Below are the steps I took to download [parquet-tools](https://github.com/Parquet/parquet-mr/tree/master/parquet-tools), and create a command to execute it.

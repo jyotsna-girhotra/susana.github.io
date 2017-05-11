@@ -2,7 +2,7 @@
 layout: post
 title:  "Scala Notes"
 date:   2017-04-11
-categories: scala
+categories: [scala]
 ---
 
 ## Other notes

@@ -2,7 +2,7 @@
 layout: post
 title:  "Apache Spark Notes"
 date:   2017-04-21
-categories: apache, spark
+categories: [apache, spark]
 ---
 
 

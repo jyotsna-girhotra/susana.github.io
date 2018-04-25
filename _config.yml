@@ -1,10 +1,10 @@
 title: Notes and Things
 
-description: <3
+description: A collection of my notes and thoughts.
 theme: minima
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.linkedin.com/in/susanacdelgadillo/"
 github_username:  susana
+linkedin_username: susanacdelgadillo
 
 # Build settings
 markdown: kramdown

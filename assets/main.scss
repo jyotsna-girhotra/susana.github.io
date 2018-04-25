@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$lavender: #f4deff;
-
 pre, code, .highlighter-rouge .highlight {
-  background-color: $lavender;
-
+  background-color: #f9e5ff;
 }
+

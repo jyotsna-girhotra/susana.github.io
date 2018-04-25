@@ -21,6 +21,4 @@ At this point you may find that Jenkins is able to run the docker commands succe
 
 ### Jenkinsfiles
 
-If you're using Jenkins, it's worth it to install and use the Jenkins Pipeline plugin suite. Rather than using the (incredibly) clunky Jenkins UI, you can express your Jenkins pipeline as code. [Check it out](pipeline-plugin).
-
-[pipeline-plugin]: https://jenkins.io/solutions/pipeline/
+If you're using Jenkins, it's worth it to install and use the Jenkins Pipeline plugin suite. Rather than using the (incredibly) clunky Jenkins UI, you can express your Jenkins pipeline as code. [Check it out](https://jenkins.io/solutions/pipeline/).

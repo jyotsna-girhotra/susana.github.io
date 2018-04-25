@@ -5,7 +5,7 @@ theme: minima
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  susana
 linkedin_username: susanacdelgadillo
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
